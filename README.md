@@ -38,7 +38,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 ---
 
-## ▶️ How to Run
+▶️ How to Run:
 1. Clone this repository:
 
 git clone https://github.com/your-username/credit-card-fraud-detection.git
@@ -52,7 +52,7 @@ python fraud_detection.py
 
 ---
 
-## 📊 Output Includes
+📊 Output Includes:
 
 ✅ Accuracy Score
 
@@ -62,7 +62,7 @@ python fraud_detection.py
 
 ---
 
-## 📂 Folder Structure
+📂 Folder Structure
 
 credit-card-fraud-detection/
 │
@@ -73,7 +73,7 @@ credit-card-fraud-detection/
 
 ---
 
-## 📚 Future Improvements
+📚 Future Improvements
 
 Try other classifiers (Random Forest, XGBoost)
 
@@ -83,7 +83,7 @@ Build a frontend using Streamlit or Flask
 
 ---
 
-## 🧑‍💻 Author
+🧑‍💻 Author
 
 Kanniga Saraswathy M
 Final-year B.Tech in AI & Data Science
