@@ -35,3 +35,57 @@ Make sure you have Python 3.x installed. Then install the dependencies:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+
+---
+
+## ▶️ How to Run
+1. Clone this repository:
+
+git clone https://github.com/your-username/credit-card-fraud-detection.git
+cd credit-card-fraud-detection
+
+2. Place fraudTrain.csv and fraudTest.csv inside the project folder.
+
+3. Run the Python script:
+
+python fraud_detection.py
+
+---
+
+## 📊 Output Includes
+
+✅ Accuracy Score
+
+🧾 Classification Report
+
+📉 Confusion Matrix (text + heatmap)
+
+---
+
+## 📂 Folder Structure
+
+credit-card-fraud-detection/
+│
+├── fraudTrain.csv
+├── fraudTest.csv
+├── fraud_detection.py
+└── README.md
+
+---
+
+## 📚 Future Improvements
+
+Try other classifiers (Random Forest, XGBoost)
+
+Balance dataset using SMOTE or other techniques
+
+Build a frontend using Streamlit or Flask
+
+---
+
+## 🧑‍💻 Author
+
+Kanniga Saraswathy M
+Final-year B.Tech in AI & Data Science
+
+---
